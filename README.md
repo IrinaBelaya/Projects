@@ -1,7 +1,7 @@
 # Data Analysis Portfolio - Irina Belaya
 
 ## Jump to
-1. Analysis of Hospital Readmissions in Diabetes Patients
+1. [Analysis of Hospital Readmissions in Diabetes Patients]([url](https://github.com/IrinaBelaya/Projects/blob/main/README.md#analysis-of-hospital-readmissions-in-diabetes-patients))
 
 ## Projects
 
