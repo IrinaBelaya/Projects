@@ -6,7 +6,7 @@
 ## Projects
 
 ### Analysis of Hospital Readmissions in Diabetes Patients
-Code: [Analysis of Readmitted Patients (Group GitHub page)](https://github.com/DiabetesGroup/Project)https://github.com/DiabetesGroup/Project) 
+Code: [Analysis of Readmitted Patients (Group GitHub page)](https://github.com/DiabetesGroup/Project)
 
 Description:The objective of this project to find an algorithm which predicts readmission of diabetic patients. Predicting the readmission of diabetic patients will help reduce hospital costs and improve the quality of health care.
 We built a predictive model in order to identify diabetic patients who have higher likelihood of being readmitted to the hospital
