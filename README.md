@@ -2,8 +2,8 @@
 
 ## Jump to
 1. [Analysis of Hospital Readmissions in Diabetes Patients](https://github.com/IrinaBelaya/Projects/blob/main/README.md#analysis-of-hospital-readmissions-in-diabetes-patients)
-2. [Life Expectancy]([#life-expectancy-(-world-health-organization-)](https://github.com/IrinaBelaya/Projects/blob/main/README.md#life-expectancy-world-health-organization))
-3. Data Management of Opioid toxicity-related deaths and hospitalizations
+2. [Life Expectancy](https://github.com/IrinaBelaya/Projects/blob/main/README.md#life-expectancy-world-health-organization)
+3. [Data Management of Opioid toxicity-related deaths and hospitalizations](https://github.com/IrinaBelaya/Projects/blob/main/README.md#life-expectancy-world-health-organization)
 
 ## Projects
 
