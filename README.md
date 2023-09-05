@@ -4,7 +4,7 @@
 1. [Analysis of Hospital Readmissions in Diabetes Patients](https://github.com/IrinaBelaya/Projects/blob/main/README.md#analysis-of-hospital-readmissions-in-diabetes-patients)
 2. [Life Expectancy](https://github.com/IrinaBelaya/Projects/blob/main/README.md#life-expectancy-world-health-organization)
 3. [Data Management of Opioid toxicity-related deaths and hospitalizations](https://github.com/IrinaBelaya/Projects/blob/main/README.md#life-expectancy-world-health-organization)
-4. Power BI report - Service Requests and Bookings
+4. [Power BI report - Service Requests and Bookings](https://github.com/IrinaBelaya/Projects/blob/main/README.md#power-bi-report---service-requests-and-bookings)
 
 ## Projects
 
